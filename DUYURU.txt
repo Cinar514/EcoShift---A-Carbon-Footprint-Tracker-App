@@ -1,0 +1,8 @@
+Telif Hakkı 2025 Çınar Altay Kurt
+
+Apache Lisansı, Sürüm 2.0 ("Lisans") altında lisanslıdır; bu dosyayı yalnızca Lisansa uygun olarak kullanabilirsiniz. Lisansın bir kopyasını şu adresten alabilirsiniz:
+http://www.apache.org/licenses/LICENSE-2.0
+
+Geçerli bir yasa gereği veya yazılı olarak aksi belirtilmedikçe, Lisans altında dağıtılan yazılım “OLDUĞU GİBİ” esasına göre sağlanır; HİÇBİR ŞEKİLDE GARANTİ YA DA ŞART YOKTUR, açık veya zımni herhangi bir garanti dahil değildir.
+
+Lisansa ilişkin özel hak ve kısıtlamalar için Lisans metninde belirtilen hükümleri inceleyiniz.

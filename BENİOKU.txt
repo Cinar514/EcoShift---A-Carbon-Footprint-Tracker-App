@@ -1,0 +1,42 @@
+# Matrix Klavye Simülatörü
+
+Matrix tarzı yazı efekti veren bir klavye simülatörü.  
+
+---
+
+## Özellikler
+- **Tam ekran Matrix efekti**  
+- **Mouse gizleme/gösterme**:  
+  - `Ctrl + Shift + Sağ Tık` → Mouse gizle  
+  - `Ctrl + Shift + Sol Tık` → Mouse göster  
+- **Program duraklatma / devam ettirme**:  
+  - `Ctrl + Alt` → Program geçici olarak durur (donma gibi görünür)  
+  - Fare ile sağ tıklayınca program yeniden devam eder  
+- **Tuşları göstermek veya gizlemek** opsiyonları  
+
+---
+
+## Kurulum
+1. Program dosyalarını indirin.  
+2. Setup çalıştırarak kurulumu tamamlayın.  
+
+---
+
+## Kullanım
+1. Uygulamayı başlatın.  
+2. Matrix efekti ekranda başlar.  
+3. Fare ve klavye kombinasyonları ile mouse görünürlüğünü kontrol edin.  
+
+---
+
+## Bilinen Durumlar / Kısıtlamalar
+- `Ctrl + Alt` kombinasyonu uygulamayı durdurur ve program geçici olarak donmuş gibi görünür.  
+- Program fare ile herhangi bir yere **sağ tıklayınca** yeniden devam eder.  
+- Bu davranış normaldir ve tasarım gereği böyle çalışmaktadır.  
+
+---
+
+## Lisans
+- **Telif Hakkı 2025 Çınar Altay Kurt**  
+- **Apache Lisansı 2.0** altında lisanslıdır.  
+- Lisansın bir kopyasını şu adresten alabilirsiniz: [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)

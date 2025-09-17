@@ -1,0 +1,189 @@
+                                 Apache Lisansı
+                           Sürüm 2.0, Ocak 2004
+                        http://www.apache.org/licenses/
+
+   KULLANIM, ÇOĞALTMA VE DAĞITIMA İLİŞKİN HÜKÜM VE KOŞULLAR
+
+   1. Tanımlar
+
+      "Lisans", bu belgenin 1–9. Bölümlerinde tanımlanan kullanım,
+      çoğaltma ve dağıtım şartları anlamına gelir.
+
+      "Lisans Veren", Lisansı veren telif hakkı sahibi veya telif hakkı
+      sahibinin yetkilendirdiği kişi veya kurum anlamına gelir.
+
+      "Tüzel Kişilik", faaliyet gösteren varlık ile onun kontrol ettiği,
+      kendisi tarafından kontrol edilen veya ortak kontrol altında olan tüm
+      diğer varlıkların birleşimini ifade eder. Bu tanımda "kontrol", (i)
+      doğrudan veya dolaylı olarak söz konusu varlığın yönetimini sağlama
+      yetkisi (sözleşme ile veya başka şekilde), (ii) %50 veya daha fazla
+      paya sahip olma, veya (iii) varlık üzerinde yararlı mülkiyete sahip
+      olma anlamına gelir.
+
+      "Siz" (veya "Sizin"), bu Lisans tarafından verilen izinleri kullanan
+      birey veya Tüzel Kişi anlamına gelir.
+
+      "Kaynak" formu, değişiklik yapmak için tercih edilen formu ifade eder,
+      buna yazılım kaynak kodu, dokümantasyon kaynakları ve yapılandırma
+      dosyaları dahildir.
+
+      "Nesne" formu, Kaynak formunun mekanik dönüşümü veya derlemesi ile
+      ortaya çıkan herhangi bir formu ifade eder; buna derlenmiş kod,
+      üretilmiş dokümantasyon ve diğer medya türlerine dönüştürmeler dahildir.
+
+      "Çalışma", lisans altında sunulan, telif hakkı bildirimi içeren veya
+      eklenmiş eser anlamına gelir. Kaynak veya Nesne formu olabilir.
+
+      "Türetilmiş Çalışmalar", Kaynak veya Nesne formunda olsun, Çalışma
+      temel alınarak veya ondan türetilmiş ve yapılan değişikliklerin tümüyle
+      özgün bir eser oluşturduğu çalışmaları ifade eder. Bu Lisans kapsamında
+      Türetilmiş Çalışmalar, Çalışmadan ayrılabilen veya yalnızca arayüzlere
+      bağlanan (link) çalışmalar olarak kabul edilmez.
+
+      "Katkı", telif hakkı sahibi veya onun adına yetkilendirilmiş kişi
+      tarafından Lisansa dahil edilmek üzere kasıtlı olarak sunulan herhangi
+      bir çalışmayı ifade eder. Bu tanımda "sunulmuş", elektronik, sözlü
+      veya yazılı şekilde Lisans Verene gönderilen her türlü iletişimi
+      kapsar (ör. e-posta listeleri, kaynak kontrol sistemleri, sorun
+      takip sistemleri), ancak açıkça "Katkı Değil" olarak işaretlenmiş
+      iletişimler dahil değildir.
+
+      "Katkıda Bulunan", Lisans Veren ve katkısı alınmış olan kişi veya
+      tüzel kişiyi ifade eder.
+
+   2. Telif Hakkı Lisansı
+
+      Bu Lisansın şartları çerçevesinde, her Katkıda Bulunan size Çalışmayı
+      ve Türetilmiş Çalışmaları Kaynak veya Nesne formunda çoğaltma,
+      türev oluşturma, kamuya gösterme, kamuya sunma, alt lisanslama ve
+      dağıtma haklarını süresiz, dünya çapında, telifsiz ve geri alınamaz
+      şekilde verir.
+
+   3. Patent Lisansı
+
+      Bu Lisans şartları çerçevesinde, her Katkıda Bulunan size Çalışmayı
+      yapmak, yaptırmak, kullanmak, satmak, ithal etmek ve başka şekillerde
+      transfer etmek için süresiz, dünya çapında, telifsiz ve geri alınamaz
+      patent lisansı verir. Bu lisans yalnızca Katkıda Bulunanın katkıları
+      ile zorunlu olarak ihlal edilen patentler için geçerlidir. Eğer bu
+      Çalışma veya Katkılar ile ilgili patent davası açarsanız, size verilen
+      patent lisansları dava açıldığı tarihte feshedilir.
+
+   4. Yeniden Dağıtım
+
+      Çalışmayı veya Türetilmiş Çalışmaları herhangi bir ortamda,
+      değiştirilmiş veya değiştirilmemiş şekilde çoğaltabilir ve dağıtabilirsiniz,
+      ancak aşağıdaki koşullara uymanız gerekir:
+
+      (a) Lisansın bir kopyasını alıcıya vermelisiniz;
+      (b) Değiştirilen dosyalarda yaptığınız değişiklikleri belirten
+          açık bir bildirim bulunmalıdır;
+      (c) Türetilmiş Çalışmalarda, Çalışma kaynak formundaki tüm telif,
+          patent, ticari marka ve atıf bildirimleri korunmalıdır;
+      (d) Eğer "NOTICE" dosyası varsa, Türetilmiş Çalışmada okunabilir
+          bir kopyasını bulundurmalısınız. Bu kopya:
+          - Türetilmiş Çalışmanın parçası olarak NOTICE dosyasında,
+          - Kaynak formunda veya dokümantasyon ile birlikte, veya
+          - Türetilmiş Çalışmanın ürettiği ekranda gösterilebilir.
+          NOTICE dosyasındaki içerik yalnızca bilgilendirme amaçlıdır
+          ve Lisansı değiştirmez. Kendi atıf bildirimlerinizi de ekleyebilirsiniz,
+          ancak Lisansı değiştirdiği anlamına gelmemelidir.
+
+      Kendi telif hakkı bildiriminizi ve farklı lisans şartlarını ekleyebilirsiniz,
+      ancak Lisansın temel koşullarına uymanız gerekir.
+   5. Katkıların Sunulması
+
+      Açıkça belirtmediğiniz sürece, Lisansa dahil edilmek üzere
+      Lisans Verene kasıtlı olarak sunduğunuz herhangi bir Katkı,
+      bu Lisansın şartları altında değerlendirilir ve ek şartlar içermez.
+      Bununla birlikte, burada belirtilenler, Lisans Veren ile yaptığınız
+      ayrı bir lisans anlaşmasının şartlarını geçersiz kılmaz veya değiştirmez.
+
+   6. Ticari Markalar
+
+      Bu Lisans, Lisans Verenin ticari adlarını, ticari markalarını,
+      hizmet markalarını veya ürün adlarını kullanma izni vermez.
+      Sadece Çalışmanın kaynağını açıklamak ve NOTICE dosyasının
+      içeriğini çoğaltmak için makul ve alışılmış kullanım gereği izin
+      verilir.
+   EK: Apache Lisansını Çalışmanıza Uygulama
+
+      Apache Lisansını çalışmanıza uygulamak için aşağıdaki
+      standart bildirimi ekleyin; köşeli parantezler "[]" içindeki
+      alanları kendi bilgilerinizle değiştirin. (Parantezleri dahil etmeyin!)
+      Metin, dosya formatına uygun yorum (comment) sözdiziminde olmalıdır.
+      Ayrıca, kolay tanımlama için dosya veya sınıf adı ve amacını
+      belirten kısa bir açıklamanın da telif hakkı bildiriminin
+      bulunduğu sayfada olmasını tavsiye ederiz.
+
+   Copyright [2025] [Çınar Altay Kurt]
+
+   Apache Lisansı, Sürüm 2.0 ("Lisans") kapsamında lisanslanmıştır;
+   bu dosyayı Lisans ile uyumlu olarak kullanmadıkça kullanamazsınız.
+   Lisansın bir kopyasını aşağıdaki adresten edinebilirsiniz:
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Geçerli yasa gerektirmedikçe veya yazılı olarak kabul edilmedikçe,
+   yazılım bu Lisans kapsamında "OLDUĞU GİBİ" sağlanır,
+   açık veya zımni hiçbir garanti verilmez.
+   Lisansın hükümlerine göre kullanım ve dağıtım sırasında
+   herhangi bir sınırlama veya sorumluluk olamaz.
+
+   7. Garanti Feragatı
+
+      Geçerli yasalarca gereklilik olmadıkça veya yazılı olarak kabul edilmedikçe,
+      Lisans Veren Çalışmayı (ve her Katkıda Bulunan kendi Katkısını)
+      “OLDUĞU GİBİ” sağlar; açık veya zımni hiçbir garanti vermez,
+      bunlar arasında, fakat bunlarla sınırlı olmamak üzere, MÜLKİYET,
+      TEHLİKE YOK, TİCARİ ELVERİŞLİLİK veya BELİRLİ BİR AMAÇ İÇİN
+      UYGUNLUK garantileri bulunmaz. Çalışmayı kullanmanın veya yeniden
+      dağıtmanın uygunluğunu belirlemek ve bununla ilgili riskleri
+      üstlenmek tamamen size aittir.
+
+   8. Sorumluluğun Sınırlandırılması
+
+      Hiçbir durumda ve hiçbir hukuki teoriye göre,
+      ihmal (kusur) veya sözleşme dahil diğer durumlarda bile,
+      geçerli yasa gerektirmedikçe (örneğin kasıtlı ve ağır ihmaller) veya
+      yazılı anlaşma yapılmadıkça, herhangi bir Katkıda Bulunan,
+      bu Lisansın sonucu olarak veya Çalışmayı kullanamama veya kullanamama
+      durumundan doğan herhangi bir doğrudan, dolaylı, özel, tesadüfi veya
+      sonuçsal zararlardan sorumlu tutulamaz. Buna iyi niyet kaybı, iş durması,
+      bilgisayar arızası veya başka ticari kayıplar da dahildir, hatta
+      Katkıda Bulunan bu tür zarar ihtimalinden haberdar olsa bile.
+
+   9. Garanti veya Ek Sorumluluk Kabulü
+
+      Çalışmayı veya Türetilmiş Çalışmaları yeniden dağıtırken,
+      destek, garanti, tazminat veya diğer sorumluluk haklarını sunmayı
+      seçebilir ve ücret talep edebilirsiniz. Ancak bu sorumlulukları
+      kabul ederken, sadece kendi adınıza ve kendi sorumluluğunuzda hareket
+      edebilirsiniz; başka bir Katkıda Bulunan adına hareket edemezsiniz.
+      Ayrıca, bu tür garanti veya ek sorumluluk kabul ettiğinizde,
+      diğer Katkıda Bulunanları bu sorumluluklardan korumayı, savunmayı ve
+      tazmin etmeyi kabul etmeniz gerekir.
+   EK: Apache Lisansını Çalışmanıza Uygulama
+
+      Apache Lisansını çalışmanıza uygulamak için aşağıdaki
+      standart bildirimi ekleyin; köşeli parantezler "Copyright 2025 Çınar Altay Kurt
+" içindeki
+      alanları kendi bilgilerinizle değiştirin. (Parantezleri dahil etmeyin!)
+      Metin, dosya formatına uygun yorum (comment) sözdiziminde olmalıdır.
+      Ayrıca, kolay tanımlama için dosya veya sınıf adı ve amacını
+      belirten kısa bir açıklamanın da telif hakkı bildiriminin
+      bulunduğu sayfada olmasını tavsiye ederiz.
+
+   Copyright 2025 Çınar Altay Kurt
+
+   Apache Lisansı, Sürüm 2.0 ("Lisans") kapsamında lisanslanmıştır;
+   bu dosyayı Lisans ile uyumlu olarak kullanmadıkça kullanamazsınız.
+   Lisansın bir kopyasını aşağıdaki adresten edinebilirsiniz:
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Geçerli yasa gerektirmedikçe veya yazılı olarak kabul edilmedikçe,
+   yazılım bu Lisans kapsamında "OLDUĞU GİBİ" sağlanır,
+   açık veya zımni hiçbir garanti verilmez.
+   Lisansın hükümlerine göre kullanım ve dağıtım sırasında
+   herhangi bir sınırlama veya sorumluluk olamaz.
