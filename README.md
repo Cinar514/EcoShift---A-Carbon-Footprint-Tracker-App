@@ -4,6 +4,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+- [EcoShift – A Carbon Footprint Tracker App](https://ecoshift-a-carbon-footprint-tracker-app.onrender.com/)
+
+---
+
 ## 🌟 Features
 - ✅ Track daily sustainable actions (cycling, plant-based meals, etc.)
 - 📊 Real-time dashboard with CO₂ savings, top performers, and category breakdowns
