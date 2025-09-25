@@ -49,29 +49,29 @@ Visit `http://localhost:3000` in your browser.
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](Screenshot%202025-09-22%20210549.png)
+<img width="984" height="614" alt="Landing Page" src="https://github.com/user-attachments/assets/2c20af64-7cbe-4a8d-a2dd-fc6f98642cd9" />
 
 ### 📊 Impact Dashboard
-![Impact Dashboard](Screenshot%202025-09-22%20210730.png)
+<img width="996" height="501" alt="Impact Dashboard" src="https://github.com/user-attachments/assets/09e04943-9619-4702-ad48-7eadf507de44" />
 
 ### 📈 Dashboard Analytics
-![Dashboard Analytics](Screenshot%202025-09-22%20210800.png)
+<img width="908" height="620" alt="Dashboard Analytics" src="https://github.com/user-attachments/assets/ffc74fc7-fb38-4698-af32-5221a68996f6" />
 
 ### 📝 Log Action
-![Log Action](Screenshot%202025-09-22%20211148.png)
+<img width="776" height="612" alt="Log Action" src="https://github.com/user-attachments/assets/53334334-166a-450c-a3f7-9d9e1f585e34" />
+<img width="753" height="416" alt="Log Action (2)" src="https://github.com/user-attachments/assets/b73b73b9-7bc5-4f3d-b27c-10ac54090f30" />
 
 ### 👤 Create Profile
-![Create Profile](Screenshot%202025-09-22%20211122.png)
+<img width="760" height="527" alt="Create Profile" src="https://github.com/user-attachments/assets/f8f7db40-af7f-4ccc-9ec9-bc6dfedb9f8c" />
 
 ### 🔄 Switch Profile
-![Switch Profile](Screenshot%202025-09-22%20211152.png)
+<img width="508" height="473" alt="Switch Profile" src="https://github.com/user-attachments/assets/6125c587-4507-4495-bfe0-7d4222091e39" />
 
 ### 🧾 Current Profile
-![Current Profile](Screenshot%202025-09-22%20211229.png)
+<img width="458" height="492" alt="Current Profile" src="https://github.com/user-attachments/assets/0256f2f6-6f8a-48a6-bbe3-a37b10fb4cf5" />
 
 ### 📤 Export & Reporting
-![Export](Screenshot%202025-09-22%20211325.png)
-
+<img width="580" height="590" alt="Export   Reporting" src="https://github.com/user-attachments/assets/92903caf-8769-432f-9276-535b3af24537" />
 ---
 
 ## 📤 Export Capabilities
