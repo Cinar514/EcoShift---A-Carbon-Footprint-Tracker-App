@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "CO₂ Footprint Reduction Challenge",
+    "version": "1.0.0",
+    "description": "Digital tracker for sustainable habits during internships",
+    "port": 3000
+  },
+  "database": {
+    "type": "sqlite",
+    "filename": "co2_challenge.db"
+  },
+  "features": {
+    "maxHabitsPerUser": 5,
+    "minHabitsPerUser": 3,
+    "enableExport": true,
+    "enableAnalytics": true,
+    "enableNotifications": false
+  },
+  "co2Factors": {
+    "transport": {
+      "cycling": 0.21,
+      "walking": 0.21,
+      "publicTransport": 0.15,
+      "unit": "kg CO₂ per km"
+    },
+    "food": {
+      "plantBasedMeal": 2.5,
+      "localOrganic": 0.3,
+      "unit": "kg CO₂ per meal"
+    },
+    "energy": {
+      "deviceOff": 0.02,
+      "heatingReduction": 0.1,
+      "unit": "kg CO₂ per hour"
+    },
+    "waste": {
+      "skipPlastic": 0.05,
+      "reusableBottle": 0.05,
+      "unit": "kg CO₂ per item"
+    },
+    "water": {
+      "shorterShower": 0.15,
+      "unit": "kg CO₂ per shower"
+    }
+  },
+  "ui": {
+    "theme": "green",
+    "language": "en",
+    "dateFormat": "YYYY-MM-DD",
+    "timezone": "UTC"
+  },
+  "reporting": {
+    "defaultDateRange": 30,
+    "exportFormats": ["csv", "html", "pdf"],
+    "includeCharts": true,
+    "includeRecommendations": true
+  },
+  "security": {
+    "requireAuth": false,
+    "allowAnonymous": true,
+    "dataRetention": 365,
+    "enableBackup": true
+  }
+}
