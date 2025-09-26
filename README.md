@@ -56,28 +56,64 @@ Visit `http://localhost:3000` in your browser.
 
 ### 🏠 Landing Page
 <img width="984" height="614" alt="Landing Page" src="https://github.com/user-attachments/assets/2c20af64-7cbe-4a8d-a2dd-fc6f98642cd9" />
+  
+The landing page introduces EcoShift with key features and a clear call-to-action for users to get started.
+
+---
 
 ### 📊 Impact Dashboard
 <img width="996" height="501" alt="Impact Dashboard" src="https://github.com/user-attachments/assets/09e04943-9619-4702-ad48-7eadf507de44" />
+  
+A summary dashboard displaying total CO₂ saved, active users, total actions, and average savings per person within a selected date range.
+
+---
 
 ### 📈 Dashboard Analytics
 <img width="908" height="620" alt="Dashboard Analytics" src="https://github.com/user-attachments/assets/ffc74fc7-fb38-4698-af32-5221a68996f6" />
+  
+Detailed analytics with category-wise CO₂ savings, top performers, and recent activity logs for better insights.
+
+---
 
 ### 📝 Log Action
 <img width="776" height="612" alt="Log Action" src="https://github.com/user-attachments/assets/53334334-166a-450c-a3f7-9d9e1f585e34" />
+ 
+A form to log sustainable actions with fields for habit selection, date, quantity, and optional notes.
+
+---
+
+### 📝 My Recent Actions
 <img width="753" height="416" alt="Log Action (2)" src="https://github.com/user-attachments/assets/b73b73b9-7bc5-4f3d-b27c-10ac54090f30" />
+  
+A list of recently logged sustainable actions with details like date, quantity, and CO₂ savings.
+
+---
 
 ### 👤 Create Profile
 <img width="760" height="527" alt="Create Profile" src="https://github.com/user-attachments/assets/f8f7db40-af7f-4ccc-9ec9-bc6dfedb9f8c" />
+  
+A profile creation form for entering user details such as name, email, and internship start date.
+
+---
 
 ### 🔄 Switch Profile
 <img width="508" height="473" alt="Switch Profile" src="https://github.com/user-attachments/assets/6125c587-4507-4495-bfe0-7d4222091e39" />
+  
+A dialog to switch between multiple user profiles, showing names, emails, and start dates.
+
+---
 
 ### 🧾 Current Profile
 <img width="458" height="492" alt="Current Profile" src="https://github.com/user-attachments/assets/0256f2f6-6f8a-48a6-bbe3-a37b10fb4cf5" />
+  
+A profile details view displaying user information, profile ID, and selected habits.
+
+---
 
 ### 📤 Export & Reporting
 <img width="580" height="590" alt="Export   Reporting" src="https://github.com/user-attachments/assets/92903caf-8769-432f-9276-535b3af24537" />
+  
+An export and reporting interface offering options to download CSV data, generate summary reports, and prepare presentation-ready insights.
 
 ---
 
